@@ -7,4 +7,6 @@
     <string name="number">Номер телефона</string>
     <string name="continue">Продолжить</string>
     <string name="con">Продолжить</string>
+    <string name="kyrgiz">Кыргызча</string>
+    <string name="russian">Русский</string>
 </resources>
