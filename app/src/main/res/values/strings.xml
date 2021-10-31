@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">My city</string>
+    <string name="team_1_presents">team 1 presents</string>
+    <string name="registration">Регистрация</string>
+    <string name="name">Имя</string>
+    <string name="sname">Фамилия</string>
+    <string name="number">Номер телефона</string>
+    <string name="continue">Продолжить</string>
+    <string name="con">Продолжить</string>
 </resources>
