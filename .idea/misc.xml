@@ -3,10 +3,11 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Mycity/app/src/main/res/layout/activity_main.xml" value="0.176" />
-        <entry key="..\:/Mycity/app/src/main/res/layout/choose_language.xml" value="0.152" />
-        <entry key="..\:/Mycity/app/src/main/res/layout/language.xml" value="0.144" />
-        <entry key="..\:/Mycity/app/src/main/res/layout/registration.xml" value="0.136" />
+        <entry key="..\:/Mycity/app/src/main/res/layout/activity_main.xml" value="0.16168478260869565" />
+        <entry key="..\:/Users/guest1/AndroidStudioProjects/Mycity/app/src/main/res/layout/activity_main.xml" value="0.18" />
+        <entry key="..\:/Users/guest1/AndroidStudioProjects/Mycity/app/src/main/res/layout/kjnij.xml" value="0.22269736842105264" />
+        <entry key="..\:/Users/guest1/AndroidStudioProjects/Mycity/app/src/main/res/layout/picture.xml" value="0.25" />
+        <entry key="..\:/Users/guest1/AndroidStudioProjects/Mycity/app/src/main/res/layout/picture1.xml" value="0.25" />
       </map>
     </option>
   </component>
