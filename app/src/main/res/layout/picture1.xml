@@ -105,7 +105,7 @@
         android:layout_width="243dp"
         android:layout_height="61dp"
         android:layout_marginStart="84dp"
-        android:layout_marginTop="35dp"
+        android:layout_marginTop="3dp"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/button4"
         app:srcCompat="@drawable/photo5467413735275607104__2_" />
@@ -115,7 +115,7 @@
         android:layout_width="349dp"
         android:layout_height="67dp"
         android:layout_marginStart="31dp"
-        android:layout_marginTop="99dp"
+        android:layout_marginTop="9dp"
         android:backgroundTint="#3F88A9"
         android:text="Отправить"
         android:textColor="@color/white"

@@ -44,28 +44,33 @@
         <item name="android:textSize">@dimen/text_size_17</item>
         <item name="android:text">@string/main</item>
         <item name="android:textColor">@color/blue_dark</item>
+        <item name="fontFamily">@font/visueltpro_regular</item>
     </style>
     <style name="soo_word">
         <item name="android:text">@string/soo</item>
         <item name="android:textColor">@color/blue_dark</item>
         <item name="android:textSize">30sp</item>
+        <item name="fontFamily">@font/visueltpro_bold</item>
     </style>
 
     <style name="contact">
         <item name="android:text">@string/contact_word</item>
         <item name="android:textSize">30sp</item>
         <item name="android:textColor">@color/blue_dark</item>
+        <item name="fontFamily">@font/visueltpro_bold</item>
     </style>
     <style name="contact_2">
         <item name="android:text">@string/contact_organization</item>
         <item name="android:textColor">@color/blue_dark</item>
         <item name="android:textSize">20sp</item>
+        <item name="fontFamily">@font/visueltpro_regular</item>
     </style>
 
     <style name="appeal_word">
         <item name="android:text">@string/appeal</item>
         <item name="android:textSize">30sp</item>
         <item name="android:textColor">@color/blue_dark</item>
+        <item name="fontFamily">@font/visueltpro_bold</item>
     </style>
 
 
