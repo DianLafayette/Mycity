@@ -8,4 +8,9 @@
     <string name="con">Продолжить</string>
     <string name="kyrgiz">Кыргызча</string>
     <string name="russian">Русский</string>
+    <string name="main">Главная</string>
+    <string name="soo">Сообщество</string>
+    <string name="contact_word">Связь</string>
+    <string name="contact_organization">Контакты организаций</string>
+    <string name="appeal">Обращения</string>
 </resources>
