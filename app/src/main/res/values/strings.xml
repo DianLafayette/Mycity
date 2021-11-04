@@ -13,4 +13,12 @@
     <string name="contact_word">Связь</string>
     <string name="contact_organization">Контакты организаций</string>
     <string name="appeal">Обращения</string>
+    <string name="photo_problem">Сфотайте проблему</string>
+    <string name="camera">Kамера</string>
+    <string name="complaint">Жалоба</string>
+    <string name="name_of_problem">Дайте краткое название проблемы</string>
+    <string name="data">Дата проишествия</string>
+    <string name="describe_problem">Опишите проблему</string>
+    <string name="sent">Отправить</string>
+    <string name="map">Карта</string>
 </resources>

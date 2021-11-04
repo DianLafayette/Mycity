@@ -13,9 +13,7 @@
         android:layout_height="wrap_content"
         android:layout_marginStart="37dp"
         android:layout_marginTop="47dp"
-        android:text="Главная"
-        android:textColor="#B8B2B2"
-        android:textSize="17sp"
+        style="@style/main_word_2"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 
@@ -26,9 +24,7 @@
         android:layout_height="wrap_content"
         android:layout_marginStart="48dp"
         android:layout_marginTop="28dp"
-        android:text="Сфотайте проблему"
-        android:textColor="@color/white"
-        android:textSize="30sp"
+        style="@style/problem"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/textView" />
 
@@ -69,10 +65,11 @@
         android:id="@+id/imageView3"
         android:layout_width="24dp"
         android:layout_height="25dp"
+        android:layout_marginTop="50dp"
         android:layout_marginStart="13dp"
         app:layout_constraintStart_toStartOf="parent"
-        app:srcCompat="@drawable/photo5467413735275607108__1_"
-        tools:layout_editor_absoluteY="47dp" />
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/photo5467413735275607108__1_" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
 
