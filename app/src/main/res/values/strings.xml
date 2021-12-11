@@ -21,4 +21,8 @@
     <string name="describe_problem">Опишите проблему</string>
     <string name="sent">Отправить</string>
     <string name="map">Карта</string>
+    <string name="soo">Сообщество</string>
+    <string name="mapp">Карта</string>
+    <string name="contact">Связь</string>
+    <string name="appeal">Обращения</string>
 </resources>

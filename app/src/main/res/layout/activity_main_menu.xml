@@ -195,9 +195,10 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:fontFamily="@font/visueltpro_bold"
-                android:text="Сообщество"
+                android:text="@string/soo"
                 android:textColor="@color/white"
                 android:textSize="24sp"
+                android:id="@+id/soo"
                 app:layout_constraintBottom_toBottomOf="parent"
                 app:layout_constraintEnd_toEndOf="parent"
                 app:layout_constraintStart_toStartOf="parent" />
@@ -236,9 +237,10 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:fontFamily="@font/visueltpro_bold"
-                android:text="Карта"
+                android:text="@string/mapp"
                 android:textColor="@color/white"
                 android:textSize="30sp"
+                android:id="@+id/mapp"
                 app:layout_constraintBottom_toBottomOf="parent"
                 app:layout_constraintStart_toStartOf="parent" />
 
@@ -274,9 +276,10 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:fontFamily="@font/visueltpro_bold"
-                android:text="Связь"
+                android:text="@string/contact"
                 android:textColor="@color/white"
                 android:textSize="24sp"
+                android:id="@+id/contact"
                 app:layout_constraintBottom_toBottomOf="parent"
                 app:layout_constraintStart_toStartOf="parent" />
 
@@ -314,8 +317,9 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:fontFamily="@font/visueltpro_bold"
-                android:text="Обращения"
+                android:text="@string/appeal"
                 android:textColor="@color/white"
+                android:id="@+id/appeal"
                 android:textSize="24sp"
                 app:layout_constraintBottom_toBottomOf="parent"
                 app:layout_constraintEnd_toEndOf="parent"
@@ -338,7 +342,7 @@
             app:layout_constraintGuide_percent=".70"/>
 
         <ImageButton
-            android:id="@+id/imageButton5"
+            android:id="@+id/camera"
             android:layout_width="0dp"
             android:layout_height="0dp"
             android:background="@drawable/rectangle_8__1_"
