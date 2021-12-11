@@ -38,6 +38,7 @@
 
     <ImageView
         android:layout_width="17dp"
+        android:id="@+id/back"
         android:layout_height="22dp"
         android:layout_marginStart="26dp"
         android:layout_marginTop="65dp"
