@@ -10,6 +10,39 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.MyCity">
         <activity
+            android:name=".SooActivity"
+            android:exported="true" />
+        <activity
+            android:name=".ContactActivity"
+            android:exported="true" />
+        <activity
+            android:name=".AppealActivity"
+            android:exported="true" />
+        <activity
+            android:name=".MappActivity"
+            android:exported="true" />
+        <activity
+            android:name=".MapActivity"
+            android:exported="true" />
+        <activity
+            android:name=".JalobaActivity"
+            android:exported="true" />
+        <activity
+            android:name=".CameraActivity"
+            android:exported="true" />
+        <activity
+            android:name=".MainMenuActivity"
+            android:exported="true" />
+        <activity
+            android:name=".RegistrationActivity"
+            android:exported="true" />
+        <activity
+            android:name=".IntroActivity"
+            android:exported="true" />
+        <activity
+            android:name=".LanguageActivity"
+            android:exported="true" />
+        <activity
             android:name=".MainActivity"
             android:exported="true">
             <intent-filter>
